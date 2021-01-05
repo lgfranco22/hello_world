@@ -1,6 +1,5 @@
 # hello_word
 ###### Hello World em nove linuagens diferentes para demostração
-<br>
 ### Assembly    .asm
 ### Batscript   .bat
 ### C           .c
